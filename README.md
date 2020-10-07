@@ -49,10 +49,10 @@
 ### 7. Name Your File
 ![8](https://user-images.githubusercontent.com/54521023/94943110-d959bb80-04f4-11eb-83ed-fa58040ed15d.png)
 
-### 8. Give Relevant Commit Message
+### 8. Give Relevant Commit Message and a Heading related to it
 ![9](https://user-images.githubusercontent.com/54521023/94943115-da8ae880-04f4-11eb-8a1c-fe8151c3bf95.png)
 
-### 9. Commit The File
+### 9. Commit Changes
 ![10](https://user-images.githubusercontent.com/54521023/94943121-dc54ac00-04f4-11eb-8cf5-c93fedf73f35.png)
 
 ### 10. Compare And Pull
@@ -65,7 +65,7 @@
 ### 12. Enter Related Issue No
 ![13](https://user-images.githubusercontent.com/54521023/94943135-dfe83300-04f4-11eb-8db8-639077cf8b9c.png)
 
-### 13. Enter Opted Language
+### 13. Enter Preferred Language
 ![14](https://user-images.githubusercontent.com/54521023/94943142-e080c980-04f4-11eb-920e-05af0fa1e3a2.png)
 
 ### 14. Enter Number Of Files Updated
@@ -77,7 +77,7 @@
 ### 16. Fill Up The Checkboxes
 ![17](https://user-images.githubusercontent.com/54521023/94943155-e2e32380-04f4-11eb-92eb-2dc6e339082d.png)
 
-### 17. Create Pull Request
+### 17. Create a Pull Request
 ![18](https://user-images.githubusercontent.com/54521023/94943157-e37bba00-04f4-11eb-8d5e-cd65c93bf842.png)
 
 ### 18. Congrats :grin:
@@ -85,8 +85,8 @@
 
 ### HacktoberFest 2020
 
-Just create four PRs , wait till they mature and get limited edition T-shirt or plant a tree.
-Pleas don't spam
+Just create 4 PRs , wait till they mature and get limited edition T-shirt or plant a tree :grin:
+Pleas don't **spam**.
 
 ### How To Commit In CLI
 
